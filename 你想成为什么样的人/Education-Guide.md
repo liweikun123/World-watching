@@ -79,7 +79,7 @@
   -  心理学：《增广贤文》、《影响力》
   -  谈判：《优势谈判》
   -  写作
-  -  演讲与展示
+  -  演讲与展示：《一席》
 - **英语**：
   -  [人人都能用英语](https://github.com/ZuodaoTech/everyone-can-use-english/blob/main/book/README.md)
   -  [我是怎么学英语的](https://codechina.org/2019/03/41/)
