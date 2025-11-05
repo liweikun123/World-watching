@@ -987,25 +987,467 @@ Nvidia 宣布获得价值 **5000 亿美元** 的 AI 处理器订单，并达成�
     - 用法：固定短语，bring sth back；政治口号，常指本土化。  
       示例：Policies to **bring jobs back** home.
 
+> Investors’ giddiness for all things AI-related pushed stockmarkets to new highs. Nvidia’s market value reached $5trn, just three months after passing $4trn. Microsoft’s market capitalisation closed above $4trn for the first time following the news of its stake in OpenAI. Apple also hit a $4trn valuation ahead of its earnings.
 
+### 中文翻译  
+投资者对所有与人工智能相关事物的**狂热**推动股市创下新高。Nvidia 的**市值**在三个月前刚突破 **4 万亿美元** 后，便达到了 **5 万亿美元**。Microsoft 的**市值**在公布其对 OpenAI 的**持股**消息后，首次收盘超过 **4 万亿美元**。苹果也在**财报**发布前达到了 **4 万亿美元** 的**估值**。
 
+---
 
+### 难词/短语筛选（+ 音标 + 意思 + 用法）
 
+1. **giddiness**  
+   - 音标：/ˈɡɪdinəs/  
+   - 意思：狂热；兴奋过度（这里指投资者盲目乐观）  
+   - 用法：名词，金融语境中描述市场情绪；常与 for sth 搭配。  
+     示例：Market **giddiness** over AI drove up prices.
 
+2. **all things AI-related**  
+   - 音标：/ɔːl θɪŋz eɪ aɪ rɪˈleɪtɪd/  
+   - 意思：所有与 AI 相关的事物  
+   - 用法：短语，泛指 AI 生态；related 修饰广泛领域。  
+     示例：Investors bet on **all things AI-related**.
 
+3. **pushed ... to new highs**  
+   - 音标：/pʊʃt ... tə nuː haɪz/  
+   - 意思：推动…创下新高  
+   - 用法：动词短语，金融中指股价/指数上涨；push sth to sth。  
+     示例：Earnings **pushed** the stock **to new highs**.
 
+4. **stockmarkets**  
+   - 音标：/ˈstɑːk ˌmɑːrkɪts/  
+   - 意思：股市（复数，指全球或多个市场）  
+   - 用法：英式拼写，常复数形式；= stock markets。  
+     示例：Global **stockmarkets** rallied on tech news.
 
+5. **market value**  
+   - 音标：/ˈmɑːrkɪt ˈvæljuː/  
+   - 意思：市值（公司总市场价值）  
+   - 用法：= market capitalization；常与 reach/hit 搭配。  
+     示例：The firm’s **market value** topped $1trn.
 
+6. **reached**  
+   - 音标：/riːtʃt/  
+   - 意思：达到（里程碑）  
+   - 用法：reach 的过去式，金融中指估值阈值。  
+     示例：Shares **reached** $100 per share.
 
+7. **just three months after**  
+   - 音标：/dʒʌst θriː mʌnθs ˈæftər/  
+   - 意思：仅在…三个月后  
+   - 用法：时间状语，强调快速变化。  
+     示例：It happened **just three months after** the launch.
 
+8. **passing**  
+   - 音标：/ˈpæsɪŋ/  
+   - 意思：超过、通过（阈值）  
+   - 用法：现在分词，= surpassing；常用于财务事件。  
+     示例：After **passing** $4trn, it surged further.
 
+9. **market capitalisation**  
+   - 音标：/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/  
+   - 意思：市值（英式拼写）  
+   - 用法：= market cap；公司股票总价值。  
+     示例：**Market capitalisation** closed at $4trn.
 
+10. **closed above**  
+    - 音标：/kloʊzd əˈbʌv/  
+    - 意思：收盘超过  
+    - 用法：金融短语，指交易日结束价格。  
+      示例：The index **closed above** 5,000 points.
 
+11. **for the first time**  
+    - 音标：/fɔːr ðə fɜːrst taɪm/  
+    - 意思：首次  
+    - 用法：时间状语，强调历史性时刻。  
+      示例：It crossed $1trn **for the first time**.
 
+12. **following the news of**  
+    - 音标：/ˈfɑːloʊɪŋ ðə nuːz əv/  
+    - 意思：在…消息之后  
+    - 用法：时间状语，连接事件因果。  
+      示例：Shares rose **following the news of** the merger.
 
+13. **stake**  
+    - 音标：/steɪk/  
+    - 意思：持股、股份（投资权益）  
+    - 用法：名词，金融中指公司股权。  
+      示例：Their **stake** in the startup is 10%.
 
+14. **hit**  
+    - 音标：/hɪt/  
+    - 意思：达到、触及（目标）  
+    - 用法：俚语化，= reach/achieve；常用于估值。  
+      示例：The stock **hit** a record high.
 
+15. **valuation**  
+    - 音标：/ˌvæljuˈeɪʃən/  
+    - 意思：估值（公司价值评估）  
+    - 用法：名词，财报或投资语境。  
+      示例：The **valuation** soared to $4trn.
 
+16. **ahead of**  
+    - 音标：/əˈhɛd əv/  
+    - 意思：在…之前  
+    - 用法：时间/顺序状语，= before。  
+      示例：Rally **ahead of** earnings report.
+
+> Lukoil, Russia’s second-biggest oil producer, announced that it would sell most of its international assets to Gunvor, a Swiss company, because of America’s recently announced sanctions on Russian energy. Lukoil is a private company, whereas Rosneft, Russia’s biggest oil provider (also subject to sanctions), is state owned. Oil prices jumped when the penalties were announced but have levelled off. The sanctions come into effect on November 21st and will particularly affect countries like India, which buys lots of Russian oi
+
+### 中文翻译  
+俄罗斯第二大石油生产商 Lukoil 宣布，由于美国最近公布的对俄罗斯能源制裁，它将把大部分国际资产出售给瑞士公司 Gunvor。Lukoil 是一家**私营公司**，而俄罗斯最大的石油供应商 Rosneft（也受到制裁）则是**国有企业**。制裁公布时**油价**上涨，但随后**趋于平稳**。制裁将于 **11 月 21 日** 生效，并将特别影响像印度这样大量购买俄罗斯石油的国家。
+
+---
+
+### 难词/短语筛选（+ 音标 + 意思 + 用法）
+
+1. **oil producer**  
+   - 音标：/ɔɪl prəˈduːsər/  
+   - 意思：石油生产商  
+   - 用法：名词短语，指从事石油开采和生产的能源公司；常用于行业排名。  
+     示例：Exxon is the world's largest **oil producer**.
+
+2. **announced that**  
+   - 音标：/əˈnaʊnst ðæt/  
+   - 意思：宣布  
+   - 用法：announce 的过去式 + that 从句，正式报道中介绍公司声明。  
+     示例：The firm **announced that** it would cut jobs.
+
+3. **sell ... assets**  
+   - 音标：/sɛl ... ˈæsɛts/  
+   - 意思：出售…资产  
+   - 用法：商业短语，指公司处置财产/业务；assets = 资产（如工厂、子公司）。  
+     示例：They plan to **sell** overseas **assets** to raise cash.
+
+4. **international assets**  
+   - 音标：/ˌɪntərˈnæʃənl ˈæsɛts/  
+   - 意思：国际资产（海外业务或财产）  
+   - 用法：金融语境，指公司境外持有的资源；常与 sell/divest 搭配。  
+     示例：The sale includes all **international assets**.
+
+5. **sanctions on**  
+   - 音标：/ˈsæŋkʃənz ɑːn/  
+   - 意思：对…的制裁  
+   - 用法：名词短语，地缘政治中指经济惩罚；on + 目标（如国家/公司）。  
+     示例：New **sanctions on** Russia hit exports.
+
+6. **Russian energy**  
+   - 音标：/ˈrʌʃən ˈɛnərdʒi/  
+   - 意思：俄罗斯能源（部门或公司）  
+   - 用法：形容词 + 名词，指能源行业；常用于制裁报道。  
+     示例：**Russian energy** firms face bans.
+
+7. **private company**  
+   - 音标：/ˈpraɪvɪt ˈkʌmpəni/  
+   - 意思：私营公司（非政府所有）  
+   - 用法：与 state-owned 相对；商业中指股东拥有。  
+     示例：Lukoil is a **private company** in Russia.
+
+8. **state owned**  
+   - 音标：/steɪt oʊnd/  
+   - 意思：国有（由政府拥有）  
+   - 用法：形容词短语，修饰企业；常见于能源/公用事业。  
+     示例：Rosneft is **state owned**.
+
+9. **oil provider**  
+   - 音标：/ɔɪl prəˈvaɪdər/  
+   - 意思：石油供应商  
+   - 用法：= producer/supplier；指石油出口或供应方。  
+     示例：Saudi Aramco is a major **oil provider**.
+
+10. **subject to**  
+    - 音标：/ˈsʌbdʒɪkt tuː/  
+    - 意思：受…影响/约束  
+    - 用法：固定短语，= affected by/under；常用于法律/制裁。  
+      示例：Exports are **subject to** tariffs.
+
+11. **oil prices**  
+    - 音标：/ɔɪl ˈpraɪsɪz/  
+    - 意思：油价  
+    - 用法：复数名词，指全球原油价格；常与 jump/fall 搭配。  
+      示例：**Oil prices** rose due to tensions.
+
+12. **jumped**  
+    - 音标：/dʒʌmpt/  
+    - 意思：（价格）急剧上涨  
+    - 用法：jump 的过去式，金融中指突发性增长。  
+      示例：Stocks **jumped** 5% on the news.
+
+13. **levelled off**  
+    - 音标：/ˈlɛvəld ɔːf/  
+    - 意思：趋于平稳（停止波动）  
+    - 用法：短语动词，= stabilize；level off at sth。  
+      示例：Growth **levelled off** after the boom.
+
+14. **penalties**  
+    - 音标：/ˈpɛnəltiz/  
+    - 意思：惩罚、罚款（这里指制裁）  
+    - 用法：复数，与 sanctions 类似，指负面后果。  
+      示例：The **penalties** include fines.
+
+15. **come into effect**  
+    - 音标：/kʌm ˈɪntu ɪˈfɛkt/  
+    - 意思：生效  
+    - 用法：固定短语，指政策/法律启动；on + 日期。  
+      示例：The law **comes into effect** next month.
+
+16. **particularly affect**  
+    - 音标：/pərˈtɪkjələrli əˈfɛkt/  
+    - 意思：特别影响  
+    - 用法：particularly = especially；affect = 影响。  
+      示例：The policy will **particularly affect** imports.
+
+17. **buys lots of**  
+    - 音标：/baɪz lɑːts ʌv/  
+    - 意思：大量购买  
+    - 用法：非正式，lots of = a large amount；商业中指进口量。  
+      示例：China **buys lots of** commodities.
+
+> Westinghouse unveiled an $80bn agreement with the American government to build nuclear reactors in the United States. Mr Trump issued an executive order in May to “ensure the rapid development” of nuclear energy, in part to feed the enormous appetite for power from AI data centres.
+
+### 中文翻译  
+Westinghouse 公布了与美国政府的一项价值 **800 亿美元** 的协议，用于在美国建造**核反应堆**。特朗普先生在 5 月份发布了**行政命令**，以“确保核能的**快速发展**”，部分原因是为了满足 AI 数据中心对电力的**巨大需求**。
+
+---
+
+### 难词/短语筛选（+ 音标 + 意思 + 用法）
+
+1. **unveiled**  
+   - 音标：/ʌnˈveɪld/  
+   - 意思：公布、揭幕（正式发布计划或产品）  
+   - 用法：unveil 的过去式，商业/政治语境中指首次公开重大公告。  
+     示例：The company **unveiled** its new strategy at the conference.
+
+2. **agreement**  
+   - 音标：/əˈɡriːmənt/  
+   - 意思：协议、协议书（正式合同）  
+   - 用法：名词，常与价值金额搭配，指商业或政府合作；= deal/pact。  
+     示例：They signed a $10 billion **agreement** with partners.
+
+3. **nuclear reactors**  
+   - 音标：/ˈnuːkliər riˈæktərz/  
+   - 意思：核反应堆  
+   - 用法：复数名词，能源术语，指核电站核心设备；常用于政策讨论。  
+     示例：The plant has four **nuclear reactors** online.
+
+4. **executive order**  
+   - 音标：/ɪɡˈzɛkjətɪv ˈɔːrdər/  
+   - 意思：行政命令（总统单方面颁布的政策指令）  
+   - 用法：美国政治术语，指总统绕过国会发布的命令；issued/signed。  
+     示例：The president issued an **executive order** on immigration.
+
+5. **ensure**  
+   - 音标：/ɪnˈʃʊr/  
+   - 意思：确保、保证  
+   - 用法：及物动词，ensure + 名词/that 从句；正式语境中强调保障。  
+     示例：The policy will **ensure** fair competition.
+
+6. **rapid development**  
+   - 音标：/ˈræpɪd dɪˈvɛləpmənt/  
+   - 意思：快速发展  
+   - 用法：名词短语，政策文件中指加速增长；rapid = 快速的。  
+     示例：Focus on the **rapid development** of green tech.
+
+7. **nuclear energy**  
+   - 音标：/ˈnuːkliər ˈɛnərdʒi/  
+   - 意思：核能  
+   - 用法：不可数名词，能源领域核心术语；常与 policy/expansion 搭配。  
+     示例：**Nuclear energy** provides clean power.
+
+8. **enormous appetite**  
+   - 音标：/ɪˈnɔːrməs ˈæpɪtaɪt/  
+   - 意思：巨大需求（比喻强烈的渴望或消耗）  
+   - 用法：固定比喻短语，enormous = 巨大的；appetite for sth。  
+     示例：The market has an **enormous appetite** for EVs.
+
+9. **power**  
+   - 音标：/ˈpaʊər/  
+   - 意思：电力、能源  
+   - 用法：名词，此处指电能；与 from AI data centres 搭配表示供电需求。  
+     示例：The grid supplies **power** to millions of homes.
+
+10. **AI data centres**  
+    - 音标：/eɪ aɪ ˈdeɪtə ˈsɛntərz/  
+    - 意思：AI 数据中心  
+    - 用法：复合名词，科技语境指支持 AI 计算的设施；= data centers for AI。  
+      示例：**AI data centres** consume vast electricity.
+
+> John Malone said he would step down as chairman of Liberty Global and Liberty Media, respectively the holding companies for his stakes in telecommunications, including Virgin Media O2, and Formula One and Live Nation Entertainment. Over a 50-year career Mr Malone was instrumental in driving the growth of cable television, selling his company, TCI, to AT&T for $50bn in 1999. His biography is titled “Cable Cowboy”.
+
+### 中文翻译  
+约翰·马龙表示，他将辞去 Liberty Global 和 Liberty Media 的董事长职务，这些分别是他在电信领域（包括 Virgin Media O2）的控股公司，以及一级方程式赛车和 Live Nation Entertainment 的控股公司。在超过 50 年的职业生涯中，马龙先生在推动**有线电视**增长方面发挥了**关键作用**，并于 1999 年以 **500 亿美元** 的价格将他的公司 TCI 出售给 AT&T。他的传记名为《**有线牛仔**》。
+
+---
+
+### 难词/短语筛选（+ 音标 + 意思 + 用法）
+
+1. **step down**  
+   - 音标：/stɛp daʊn/  
+   - 意思：辞职、退任（职位）  
+   - 用法：动词短语，常用于高层管理人员或政治人物正式离开岗位；= resign from。  
+     示例：The CEO will **step down** at the end of the year.
+
+2. **chairman**  
+   - 音标：/ˈtʃɛərmən/  
+   - 意思：董事长（公司董事会主席）  
+   - 用法：名词，可中性化用 chair；商业语境中指领导董事会。  
+     示例：She was elected **chairman** of the board.
+
+3. **holding companies**  
+   - 音标：/ˈhoʊldɪŋ ˈkʌmpəniz/  
+   - 意思：控股公司（拥有其他公司股份的母公司）  
+   - 用法：复数名词，金融中指控制子公司而不直接运营；for + 领域。  
+     示例：**Holding companies** manage investments in telecom.
+
+4. **stakes**  
+   - 音标：/steɪks/  
+   - 意思：股份、权益（投资份额）  
+   - 用法：名词，his stakes in + 公司/行业；常用于描述亿万富翁的投资。  
+     示例：He holds significant **stakes** in media firms.
+
+5. **telecommunications**  
+   - 音标：/ˌtɛlɪkəˌmjuːnɪˈkeɪʃənz/  
+   - 意思：电信（通信行业）  
+   - 用法：不可数名词，简称 telecoms；指电话、互联网等服务。  
+     示例：Investments in **telecommunications** grew rapidly.
+
+6. **instrumental in**  
+   - 音标：/ˌɪnstrəˈmɛntl ɪn/  
+   - 意思：在…中发挥关键作用  
+   - 用法：固定短语，形容词 + in + 动名词；强调贡献。  
+     示例：She was **instrumental in** the project's success.
+
+7. **driving the growth**  
+   - 音标：/ˈdraɪvɪŋ ðə ɡroʊθ/  
+   - 意思：推动增长  
+   - 用法：driving = 驱动；the growth of + 行业。  
+     示例：Innovation is **driving the growth** of tech.
+
+8. **cable television**  
+   - 音标：/ˈkeɪbl ˌtɛləˈvɪʒən/  
+   - 意思：有线电视  
+   - 用法：名词短语，指通过电缆传输的电视服务；简称 cable TV。  
+     示例：**Cable television** revolutionized entertainment.
+
+9. **selling his company**  
+   - 音标：/ˈsɛlɪŋ hɪz ˈkʌmpəni/  
+   - 意思：出售他的公司  
+   - 用法：动名词短语，描述并购事件；to + 买家 for + 金额。  
+     示例：**Selling his company** for $1bn made headlines.
+
+10. **biography**  
+    - 音标：/baɪˈɑːɡrəfi/  
+    - 意思：传记  
+    - 用法：名词，指某人生活的书面记录；titled + 书名。  
+      示例：His **biography** details a rags-to-riches story.
+
+> Dig deeper into the subject of this week’s cartoon:
+
+The next stage of the Trump peace plan for Gaza is stallingAfter Gaza, Israeli politics are even less predictableThe new players who could run Gaza
+
+The editorial cartoon appears weekly in The Economist. You can see last week’s here.
+
+### 中文翻译  
+深入挖掘本周漫画的主题：  
+**特朗普加沙和平计划的下一阶段** **陷入停滞**  
+**加沙之后**，**以色列政局** **更加不可预测**  
+**谁能治理加沙**：**新玩家**登场  
+
+《经济学人》**社论漫画**每周刊登一次。你可以在这里查看**上周的**漫画。
+
+---
+
+### 难词/短语筛选（+ 音标 + 意思 + 用法）
+
+1. **dig deeper into**  
+   - 音标：/dɪɡ ˈdiːpər ˈɪntuː/  
+   - 意思：深入挖掘、深入研究  
+   - 用法：固定短语，dig into sth = 深入调查/分析某事；常用于新闻或学术语境。  
+     示例：We need to **dig deeper into** the data.（我们需要更深入地分析数据。）
+
+2. **subject**  
+   - 音标：/ˈsʌbdʒɪkt/  
+   - 意思：主题、话题  
+   - 用法：名词，此处指漫画讨论的核心内容；常与 of 搭配。  
+     示例：The **subject** of the meeting was AI.（会议主题是人工智能。）
+
+3. **this week’s**  
+   - 音标：/ðɪs wiːks/  
+   - 意思：本周的  
+   - 用法：所有格结构，指当前周的事物；常用于媒体标题。  
+     示例：**This week’s** top story.（本周头条。）
+
+4. **cartoon**  
+   - 音标：/kɑːrˈtuːn/  
+   - 意思：漫画（此处指政治讽刺漫画）  
+   - 用法：名词，英式/美式通用；*The Economist* 特指社论漫画。  
+     示例：The **cartoon** mocks the president.（这幅漫画讽刺了总统。）
+
+5. **next stage**  
+   - 音标：/nɛkst steɪdʒ/  
+   - 意思：下一阶段  
+   - 用法：名词短语，指计划或进程的后续步骤。  
+     示例：The **next stage** is implementation.（下一阶段是执行。）
+
+6. **peace plan**  
+   - 音标：/piːs plæn/  
+   - 意思：和平计划  
+   - 用法：政治术语，指解决冲突的正式方案；常与人名（如 Trump）搭配。  
+     示例：The **peace plan** was rejected.（和平计划被否决。）
+
+7. **stalling**  
+   - 音标：/ˈstɔːlɪŋ/  
+   - 意思：陷入停滞、拖延  
+   - 用法：stall 的现在分词，商业/政治中指进展受阻。  
+     示例：Negotiations are **stalling**.（谈判陷入僵局。）
+
+8. **Israeli politics**  
+   - 音标：/ɪzˈreɪli ˈpɑːlətɪks/  
+   - 意思：以色列政局  
+   - 用法：专有名词 + 不可数名词，指国家政治生态。  
+     示例：**Israeli politics** are highly polarized.（以色列政局极度分裂。）
+
+9. **even less predictable**  
+   - 音标：/ˈiːvn lɛs prɪˈdɪktəbl/  
+   - 意思：更加不可预测  
+   - 用法：比较级结构，even + 比较级 = 更加…；强调不确定性加剧。  
+     示例：The market is **even less predictable** now.（市场现在更加难以预测。）
+
+10. **new players**  
+    - 音标：/njuː ˈpleɪərz/  
+    - 意思：新玩家、新势力  
+    - 用法：比喻用法，政治/商业中指新兴参与者；常与 who could 搭配表示潜力。  
+      示例：**New players** entered the market.（新玩家进入市场。）
+
+11. **run**  
+    - 音标：/rʌn/  
+    - 意思：治理、管理（国家、地区）  
+    - 用法：动词，run sth = 掌管；政治语境中指实际控制。  
+      示例：Who will **run** Gaza?（谁来治理加沙？）
+
+12. **editorial cartoon**  
+    - 音标：/ˌɛdɪˈtɔːriəl kɑːrˈtuːn/  
+    - 意思：社论漫画（带有评论性质的讽刺画）  
+    - 用法：媒体术语，*The Economist* 每周一幅，讽刺时事。  
+      示例：The **editorial cartoon** criticized the policy.（社论漫画批评了该政策。）
+
+13. **appears weekly**  
+    - 音标：/əˈpɪrz ˈwiːkli/  
+    - 意思：每周刊登  
+    - 用法：固定表达，媒体用语；weekly = 每周一次。  
+      示例：The column **appears weekly**.（该专栏每周刊登。）
+
+14. **last week’s**  
+    - 音标：/læst wiːks/  
+    - 意思：上周的  
+    - 用法：所有格，指前一周内容；常与链接搭配。  
+      示例：See **last week’s** report.（查看上周报告。）
+
+15. **here**  
+    - 音标：/hɪr/  
+    - 意思：这里（指超链接位置）  
+    - 用法：网络用语，引导点击；= at this link。  
+      示例：Click **here** for details.（点击这里查看详情。）
 
 
 
