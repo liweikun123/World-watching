@@ -218,7 +218,7 @@ That never changes. That gives me hope.
 **Host**: Well Lenore we are out of time, and I feel like we could talk for so much longer about this. There you know I have to say people always say that to me and I think they’re saying “My god she just doesn’t stop, how am I gonna get her to stop?” I’ll say “Oh we could talk but we got to say goodbye.” So truly we didn’t hit on all my questions, we didn’t hit on all of the member questions. Thank you to the members for submitting your questions — I’m sorry if we didn’t get to yours. And thank you so much Lenore for taking the time to chat with us. This has been great. And we’re excited to see more of you in the TED space.
 
 **Lenore**: Oh my god I’m excited too. And thank you Whitney. And thank you TED.
-```markdown
+
 
 （完整无删减，已按两人对话整理，每段前面标明说话人，后面直接接英文原文 + 中文翻译）
 
@@ -228,6 +228,8 @@ That never changes. That gives me hope.
 以下是将原始TED字幕整理为清晰的双人对话形式，同时保留**完整英文原文**并附上**准确中文翻译**，无任何删减。
 
 ---
+
+
 
 **Whitney:**  
 You actually start your talk by mentioning that you have been called America's worst mom after you let your nine-year-old ride the New York City subway alone, and you embraced that title. So while maybe not initially, um, but so I mean when you look back at that moment, what do you think struck a cultural nerve?
