@@ -1,58 +1,171 @@
-# 总结
+# Amherst College 2025 届毕业典礼学生代表演讲  
+**演讲者**：Thomas Y（数学 + 政治学双学位）  
+**视频地址**：https://www.youtube.com/watch?v=hYPFgN_luDo&t=260s  
 
-托马斯·Y，2025届毕业生代表，在阿默斯特学院毕业典礼上发表演讲，分享了他从一个象征性绿色外卖盒中领悟到的三大人生哲理：**保持初心（“stay green”）**、**学会重新定义困难（“pickle”）**和**建立人际桥梁（“bridge”）**。他将这三大哲理视为四年大学经历的缩影，鼓励毕业生们在未来继续保持开放与好奇心，以积极态度面对挫折，并珍惜和主动构建人与人之间的连接。演讲充满个人情感与深刻反思，强调成长中的忍耐与理解，以及与社会共同体的联结对人生的重要性。
+---
 
-## 重点内容
+### 英文原文 + 中文翻译（双语对照）
 
-- **🌱 保持初心**：像大一新生时一样积极主动与人交流，不被生活的疲惫或社交隔阂所影响。  
-- **🥒 重新定义困难**：像发酵的泡菜一样，经历痛苦与困难后蜕变成长，学会正面看待失败与挫折。  
-- **🃏 建立人际桥梁**：桥牌不仅是游戏，更象征人与人之间的合作与连接，是桥梁的象征。  
-- **🎓 社区归属感**：阿默斯特不仅是学习的地方，更是一个提供归属感与人际网络的社区。  
-- **🤝 传承与帮助**：毕业后继续指导后辈，延续阿默斯特社区的精神与人际网络。  
-- **✨ 感恩之心**：对校长、学校、师长及家人的感激，感恩所有支持与帮助。  
-- **🌟 探索未知**：勇于选择“少有人走的路”，保持对未来的好奇与探索精神。
+**It is now my pleasure to introduce the senior chosen by the class of 2025 to address you this morning, Thomas Y, who graduates today with a double major in mathematics and political science.**  
+现在我很荣幸地介绍由 2025 届全体同学选出的学生代表——Thomas Y，他今天将以数学与政治学双学位的身份毕业。
 
-## 关键见解
+**Tom [Applause] Thank you.**  
+汤姆（掌声）谢谢大家。
 
-- **🌱 保持初心的重要性**  
-  托马斯指出，许多学生在大学期间逐渐失去大一时的单纯与主动。保持“绿色”态度意味着持续开放与好奇，主动建立联系。这不仅促进社交，还能塑造积极的生活态度。在快速变化的现代社会，保持初心有助于持续学习与成长。
+**I have to make a confession. I stole something from Amherst and never gave it back. I've kept it for four years and it's followed me across dorms and semesters. I have to come clean. I stole a green to-go box.**  
+我得坦白一件事：我从 Amherst 偷了一样东西，而且四年都没还。它跟着我换过宿舍、换过学期。今天我必须坦白——我偷了一个绿色的外带餐盒。
 
-- **🥒 挫折是成长的必经之路**  
-  通过“泡菜”发酵的比喻，托马斯提醒大家，人生中的痛苦与不适是暂时的，是成长的必要阶段。成功往往建立在失败与痛苦之上，尤其在青春期和青年早期，学会正面看待困境是心理韧性的体现。
+**Remember these? For those of you who don’t know, Amherst bought these during COVID to encourage eating outside our dining hall. They were a symbol of convenience, avoidance, stench. Then suddenly they were gone.**  
+你们还记得这些吗？对不了解的人来说，疫情期间学校买了这些绿色餐盒，鼓励大家不在食堂吃。它们象征着“方便”“回避”和“臭味”。然后突然有一天，它们就消失了。
 
-- **🃏 人际关系中的“桥梁”作用**  
-  桥牌不仅是托马斯的兴趣，更为他开启了跨代、跨文化的沟通窗口，带来意想不到的智慧。这启示我们主动构建“桥梁”，连接不同人群，拓展视野，建立支持系统。
+**Ask anyone from the class of 2026 onwards and they’ll have no idea what we’re talking about. But we remember.**  
+去问 2026 届及以后的同学，他们完全不知道我们在说什么。但我们记得。
 
-- **🎓 社区归属感的持续价值**  
-  阿默斯特作为一个社区，不仅提供知识与技能，还赋予学生归属感与支持感。毕业不是结束，而是成为社区更广泛联系的一部分，这种归属感对职业发展和心理健康有积极影响。
+**Some of you might remember these green boxes as an unwelcome COVID reminder. But I see something different. A philosophy. Because inside this box are three important lessons that I’m taking to go.**  
+有些人可能把这些绿盒子当成疫情的不愉快回忆。但我看到的却不一样——那是一种人生哲学。因为这个盒子里装着我要“外带”走的三个人生教训。
 
-- **🤝 成为导师、传承帮助**  
-  毕业生作为“前辈”，应积极帮助学弟学妹及职场新人，形成良性循环。这种传承不仅帮助他人，也提升自身的责任感与影响力。
+### Lesson one: Stay green.  
+**第一课：保持“绿色”**
 
-- **✨ 感恩与认同的重要性**  
-  托马斯对校长、教授、家人的感谢体现成功背后集体支持的力量。感恩增强集体意识与个人谦逊，有助于建立积极人际关系。
+**And I don’t just mean eco-friendly green. Remember how green and naive we were freshman year?**  
+我指的不是环保的绿色。而是我们大一时的那种“青涩”（green 在英文里既是绿色，也指“新手、单纯”）。
 
-- **🌟 勇于走未选择的路**  
-  引用罗伯特·弗罗斯特的名句，托马斯鼓励大家勇于选择“少有人走的路”，拥抱不确定性与探索精神。在多样化的现代职业与人生路径中，敢于选择非传统道路体现个性发展与创新精神。
+**How in our first month at Amherst, we’d sit next to anyone in the Val tents. No hesitation, no awkwardness, just, “Hey, mind if I join you?”**  
+还记得大一第一个月在 Valentine 食堂的帐篷里，我们会毫不犹豫地坐到任何人旁边：“我能拼个桌吗？”
 
-## 总结思考
+**Then for 4 years, we’ve collectively forgotten how to do that and refused to say hi even when we know someone. Yeah, I’m looking at you, Casey. Why won’t you say hi to me?**  
+但接下来的四年，我们集体忘记了怎么做这件事——即使认识也不打招呼。Casey，我说的就是你！为什么你见到我都不打招呼？
 
-托马斯的三大人生哲学不仅适用于毕业季，也适合任何处于转折期的人。他的演讲从个人经验出发，结合普遍人生法则，为毕业生提供了深具启发性的思考框架，具有重要的现实指导意义，展现了年轻人在面对挑战时应有的态度与智慧。
+**I’ve noticed this month that a lot of us have suddenly remembered because the end is near. Why did we wait?**  
+这一个月我发现很多人突然又想起来了，因为毕业在即。我们为什么非要等到最后？
 
-## 视频地址
-https://www.youtube.com/watch?v=hYPFgN_luDo&t=260s
+**I wish we all stayed green and channeled the spirit of freshman year more.**  
+我真希望我们都能一直保持那种大一时的“青涩”。
 
+**Look, I know it’s hard to stay that optimistic. We as a class have been through a lot together. We’ve survived a global health pandemic. We’ve witnessed a war in Ukraine. And we’ve experienced a huge presidential transition.**  
+我知道保持乐观很难。我们这一届一起经历了很多：全球疫情、乌克兰战争，还有学校校长的大换届——Elliot 校长接替 Biddy Martin 的时候，大家都炸锅了：“又一个白人直男？他笑得太多了吧？为什么他老出现在 rave 派对？”
 
-# 讲话稿
+**At first, I was skeptical, too. But I’ve come to realize that what unsettles us about our friendly neighborhood president is just that he’s stayed green.**  
+一开始我也怀疑。但后来我发现，让我们不安的恰恰是——他一直保持着“青涩”。他跟每个人打招呼，参加校园里每一个活动，主动把自己置于无数尴尬的对话中。
 
-It is now my pleasure to introduce the senior chosen by the class of 2025 to address you this morning, Thomas Y, who graduates today with a double major in mathematics and political science.
+**I’ve seen this friendly greenness in a few others. Renee, who brightens everyone’s meal as we enter Val, math professor Contreres, who sits with anyone for breakfast, and future CEO of LinkedIn, Da Manni, who will help anyone with their homework at midnight.**  
+我也在其他人身上看到这种“友善的青涩”：Val 门口每次都笑容满面的 Renee，愿意跟任何人一起吃早餐的数学教授 Contreres，还有未来 LinkedIn 的 CEO Da Manni——半夜还会帮人写作业。
 
-Tom [Applause] Thank you. I have to make a confession. I stole something from Ammerst and never gave it back. I've kept it for four years and it's followed me across dorms and semesters. I have to come clean. I stole a green to-go box. Remember these? For those of you who don't know, Ammerst bought these during co to encourage eating outside our dining hall. They were a symbol of convenience, avoidance, stench. Then suddenly they were gone. Ask anyone from the class of 2026 onwards and they'll have no idea what we're talking about. But we remember. Some of you might remember these green boxes as an unwelcome COVID reminder. But I see something different. A philosophy. Because inside this box are three important lessons that I'm taking to go. 
+**What do they all have in common? They kept their greenness.**  
+他们的共同点是什么？他们都保留了自己的“青涩”。
 
-Lesson one, stay green. And I don't just mean eco-friendly green. Remember how green and naive we were freshman year? How in our first month at Ammerst, we'd sit next to anyone in the Val tents. No hesitation, no awkwardness, just, "Hey, mind if I join you?" Then for 4 years, we've collectively forgotten how to do that and refused to say hi even when we know someone. Yeah, I'm looking at you, Casey. Why won't you say hi to me? I've noticed this month that a lot of us have suddenly remembered because the end is near. Why did we wait? I wish we all stayed green and channeled the spirit of freshman year more. Look, I know it's hard to stay that optimistic. We as a class have been through a lot together. We've survived a global health pandemic. We've witnessed a war in Ukraine. And we've experienced a huge presidential transition. I mean, when President Elliot came in and took over from Biddy Martin, everyone was up in arms. Ah, another straight white guy. He smiles too much. And why is he lurking at the rave? At first, I was skeptical, too. But I've come to realize that what unsettles us about our friendly neighborhood president is just that he's stayed green. He's embodied the best parts of freshman year, saying hi to everyone, going to every event on campus, and getting himself into a lot of awkward conversations. I've seen this friendly greenness in a few others. Renee, who brightens everyone's meal as we enter Val, math professor Contreres, who sits with anyone for breakfast, and future CEO of LinkedIn, Da Manni, who will help anyone with their homework at midnight. What do they all have in common? They kept their greenness. Look, I'm not telling you all to backtrack to freshman year, but let's move forward and not leave behind openness and curiosity. Be intentionally green moving forward. When you walk by a stranger, say hello and look at them, not at your phone. When your friends want to make plans, take it out of the group chat and make it happen. And let's not wait until our 50-year reunion to finally talk to that Ammeris classmate you wanted to talk to. It's hard, I know. But that's why we need to be intentional about it. We've left behind many things from freshman year we don't want to see again. Masks, nose swabs, and three times Grammy award-winning artist. Common, but let's stay green. 
+**Be intentionally green moving forward. When you walk by a stranger, say hello and look at them, not at your phone.**  
+未来，请有意地保持“青涩”。路过陌生人时说声 hello，看的是人，不是手机。
 
-Lesson two. Pickle. Pickles teach us a lot about how to frame our lives because fermentation shows us that in the moment some things look and smell really bad, but give it time and you get something pretty good like pickles, kombucha, or [Laughter] kids. Embrace the rotten because sometimes a horrible process is what makes us better. And you can only see that in hindsight. So reframe things the next time something doesn't go your way. When you're suffering through the last weeks of your thesis, you're not just in pain, you're becoming a scholar. When you get a B+ in beginner ballet like I did, you're not just failing, you're pushing your comfort zones. And when housing forces you to move into a Cohen double or forced triple point is no matter what you're facing, a tough assignment, an embarrassing moment, or just bad luck, those things are miserable. How are you going to deal with it? Reframe it. Remember pickles. Embrace the painful and rotten. My family faced one of these very painful moments last summer with a brain cancer diagnosis. Dad, you've beaten the odds and I'm so thankful that you're here [Music] today. At the time, your sickness was one of the most rotten things I've ever experienced. But looking back, that time brought our family closer together than ever. I learned not to hold back my gratitude, my words, or my love. Despite the pain, we all became stronger. We reframed the rotten as growth. The confidence I've grown into this year hasn't come from success. It's come from surviving this hardship and failure. Many times I felt down. I was actually on my way up. So in these first postgrad years, you're going to be tempted to compare your success to others. But fermentation takes time. So will your success. I hope you're lucky enough to not always succeed immediately, lucky enough to sometimes fail, and wise enough to wait for the process to finish. The process stinks. Sometimes it feels like you're going to run in circles for no reason at all, but that's when real real progress happens. I did track and field. You can trust me. Be patient. Life's a dream, but sometimes it's first a pickle. 
+**And let’s not wait until our 50-year reunion to finally talk to that Amherst classmate you wanted to talk to.**  
+别等到 50 周年同学会才去跟那个你一直想聊天的同学开口。
 
-Lesson three. Bridge. Bridge is a card game that I've played every Sunday since coming to Ammerst. I've played with a lot of seniors and not just my classmates because when I say I play bridge, people usually go, "Oh, my grandma plays that." So, how did I get involved with a hobby of the Margarets and Gertudes of the world? I started the way many college activities do, hanging out with your friends. Unlike most activities, I got involved because Big Mike bribed me during orientation week. He said I could get paid to learn a dying card game. So on Sunday, I showed up to North Common Room at 4 p.m. No questions asked. Now, I hated Bridge at first. It's a tough game to learn. You sit at a table and play as a partnership with the person across from you. Lots of rules, lots of teamwork, and lots of frustration.But when the $15 hit my Venmo the next day, unemployed freshman me reconsidered. So my friends and I kept showing up week after week to get paid and learn how to play bridge. Before long, we loved the card game itself, founded the Amoris Bridge Club, and began traveling to tournaments across the world, meeting tons of new people. Full disclosure, we don't pay you to play bridge anymore. So, I know it's a tough cell, but even if you don't start playing bridge, I hope you'll remember bridges because the unexpected gift of bridge has been the connections it's built me. Bridges that span generations and geographies. Bridge isn't just a card game. It's about partnership. We share strategies with each other, yes, but also stories and life lessons. Each table I've played at is a new conversation and lets me glimpse different life paths. I've played with Jeff, a 40-year-old Canadian teacher, Zeia, an 80-year-old Pakistani Grandmaster, Bill, a retired biologist, and even Bill Gates. Many friendships I've made through Bridge wouldn't have existed if I didn't seek out this connection. So find mentors, learn who to trust, because not all advice is worth taking. Not all advice is worth taking. If you don't believe me, you're already doing a great job. No one does life alone, so lean on our Ammeris community. Some of my earliest life advice came from alums who I reached out to. Mike Reed, class of '04. AJ Chiansi and Ryan Park05, Harran Tong, 2023, and many, many more. These alums responded to emails from some green freshman who knew nothing about a career in law. And they spent hours conversing with me. They built me a bridge. Bridges go two ways. What bridge will you build for someone else? In just a few minutes, you'll also be an alum who can start building bridges for others. Take some time to mentor the interns at work or respond to that amorous freshman who emails you because you never know, you might get a shout out at their commencement. Look to receive and create bridges. For me, it started with a silly little card game, bridge. Find your bridge and pay it forward.
+**We’ve left behind many things from freshman year we don’t want to see again. Masks, nose swabs, and three times Grammy award-winning artist Common, but let’s stay green.**  
+大一有很多东西我们巴不得永远丢掉——口罩、鼻拭子、还有三座格莱美得主 Common……但请留下那份“青涩”。
 
-It's finally time I give my stolen box back. But before I do, seniors, take a moment to ask yourself, what will you take away from your time at Ammerst? And what will you give back to others in life after Ammerst? It might take a while to answer that. So remember, Ammerst isn't going to be just one time or place in our lives. It's going to be an eternal community of friends and a lifelong of explaining that no, we're different from UMass Ammerst. When our parents first sent us here, I'm sure that they hoped we'd become less naive and maybe figure out a life plan. But I hope we leave just as green and still a little uncertain about our road ahead. Because as the poet who we named our kind of ugly Frost Library after once said, "Two roads diverged. I chose the one less traveled by, and that has made all the difference." I hope you choose the roads not taken. I hope you hold on to your greenness and the things many others would leave behind because some of those things, like green to-go boxes, are actually worth keeping around. So before I end, I want to thank President Elliot, the board of trustees, professors, and all members of the college. You've truly made Ammeris special, and it's been an honor to speak today. Thank you families for coming all this way. While other commencements get Nobel Prize winners and Kermit the Frog, you got me finally. Thank you and congratulations. Seniors, it was a pleasure to be young with you. As we depart, let's keep these three green box lessons in mind. Build bridges, embrace the rotten, and bring our freshman greenness to Heat. Heat.
+### Lesson two: Pickle.  
+**第二课：泡菜（Pickle）**
+
+**Pickles teach us a lot about how to frame our lives because fermentation shows us that in the moment some things look and smell really bad, but give it time and you get something pretty good like pickles, kombucha, or [Laughter] kids.**  
+泡菜教了我们很多关于如何看待人生的事——发酵的过程告诉我们：有些东西当下看起来、闻起来很糟糕，但给它时间，最后会变成好东西，比如泡菜、康普茶，或者……（笑声）孩子。
+
+**Embrace the rotten because sometimes a horrible process is what makes us better. And you can only see that in hindsight.**  
+拥抱“腐烂”的过程吧，有时候正是可怕的过程让我们变得更好——只是当时看不出来。
+
+**So reframe things the next time something doesn’t go your way.**  
+下次遇到挫折，试着重新定义它。
+
+**When you’re suffering through the last weeks of your thesis, you’re not just in pain, you’re becoming a scholar.**  
+写论文最后几周痛苦不堪时，你不是在受罪，你是在成为一个学者。
+
+**When you get a B+ in beginner ballet like I did, you’re not just failing, you’re pushing your comfort zones.**  
+像我一样在初级芭蕾课拿 B+，不是失败，是在突破舒适区。
+
+**My family faced one of these very painful moments last summer with a brain cancer diagnosis. Dad, you’ve beaten the odds and I’m so thankful that you’re here [Music] today.**  
+去年夏天我家经历了最“腐烂”的一刻——我爸爸被诊断出脑癌。爸爸，你战胜了一切，我很感恩你今天能坐在这里（音乐响起）。
+
+**At the time, your sickness was one of the most rotten things I’ve ever experienced. But looking back, that time brought our family closer together than ever.**  
+当时你的病是我经历过的最糟糕的事。但回望过去，那段日子让我们家人比任何时候都更紧密。
+
+**The confidence I’ve grown into this year hasn’t come from success. It’s come from surviving this hardship and failure.**  
+我这一年拥有的自信，不是来自成功，而是来自挺过这些苦难和失败。
+
+**So in these first postgrad years, you’re going to be tempted to compare your success to others. But fermentation takes time. So will your success.**  
+毕业后的头几年，你们会忍不住跟别人比成功。但发酵需要时间，你们的成功也是。
+
+**I hope you’re lucky enough to not always succeed immediately, lucky enough to sometimes fail, and wise enough to wait for the process to finish.**  
+我希望你们足够幸运——不是永远立刻成功，而是偶尔失败，并且足够智慧去等待发酵完成。
+
+**Life’s a dream, but sometimes it’s first a pickle.**  
+生活是梦想，但有时候它得先变成一罐泡菜。
+
+### Lesson three: Bridge.  
+**第三课：桥（Bridge 既是桥牌，也是“搭建桥梁”的意思）**
+
+**Bridge is a card game that I’ve played every Sunday since coming to Amherst.**  
+Bridge 是一种纸牌游戏，从我来 Amherst 后每周日都在玩。
+
+**I’ve played with a lot of seniors and not just my classmates because when I say I play bridge, people usually go, “Oh, my grandma plays that.”**  
+我跟很多“老前辈”玩过，不只是同学——因为我说自己在玩桥牌，别人通常会说：“啊，我奶奶也玩这个。”
+
+**So, how did I get involved with a hobby of the Margarets and Gertrudes of the world? I started the way many college activities do, hanging out with your friends.**  
+我怎么开始玩这个“老太太运动”的？跟大多数大学社团一样——跟朋友混着混着就入坑了。
+
+**Unlike most activities, I got involved because Big Mike bribed me during orientation week. He said I could get paid to learn a dying card game.**  
+跟别的社团不一样，我是被“贿赂”的——新生周 Big Mike 说可以拿钱学一种快要失传的纸牌游戏。
+
+**Now, I hated Bridge at first. It’s a tough game to learn. … But when the $15 hit my Venmo the next day, unemployed freshman me reconsidered.**  
+一开始我特别讨厌桥牌，太难了……但第二天 15 美元到账后，失业大一生的我重新考虑了一下（笑声）。
+
+**Before long, we loved the card game itself, founded the Amherst Bridge Club, and began traveling to tournaments across the world, meeting tons of new people.**  
+没多久我们就爱上了桥牌本身，成立了 Amherst 桥牌俱乐部，开始去世界各地打比赛，认识了无数新朋友。
+
+**The unexpected gift of bridge has been the connections it’s built me. Bridges that span generations and geographies.**  
+桥牌带给我最大的意外礼物，就是它帮我搭建的“桥梁”——跨越年龄、跨越地域的桥梁。
+
+**I’ve played with Jeff, a 40-year-old Canadian teacher, Zeia, an 80-year-old Pakistani Grandmaster, Bill, a retired biologist, and even Bill Gates.**  
+我跟 40 岁的加拿大老师 Jeff、80 岁的巴基斯坦桥牌大师 Zeia、退休生物学家 Bill，甚至比尔·盖茨都同桌打过牌。
+
+**Many friendships I’ve made through Bridge wouldn’t have existed if I didn’t seek out this connection.**  
+如果我当初没主动去找这份连接，这些友谊根本不会存在。
+
+**Bridges go two ways. What bridge will you build for someone else?**  
+桥是双向的。你会为别人搭建怎样的桥？
+
+**In just a few minutes, you’ll also be an alum who can start building bridges for others.**  
+几分钟后，你们也将成为校友——可以开始为别人搭桥的人。
+
+**Find your bridge and pay it forward.**  
+找到你的“桥”，然后把这份善意传递下去。
+
+### 结语
+
+**It’s finally time I give my stolen box back.**  
+现在，我终于要把这个偷来的绿色餐盒还回去了。
+
+**But before I do, seniors, take a moment to ask yourself, what will you take away from your time at Amherst? And what will you give back to others in life after Amherst?**  
+但在还回去之前，2025 届的同学们，请停下来问问自己：从 Amherst 你要带走什么？离开 Amherst 之后，你又想回馈给别人什么？
+
+**Amherst isn’t going to be just one time or place in our lives. It’s going to be an eternal community of friends and a lifelong of explaining that no, we’re different from UMass Amherst.**  
+Amherst 不会只是我们生命中的一段时光或一个地点。它将是一个永恒的朋友共同体，以及一辈子都要向别人解释“我们跟马萨诸塞大学阿默斯特分校不一样”的使命（笑声）。
+
+**I hope we leave just as green and still a little uncertain about our road ahead.**  
+我希望我们离开时依然保持那份“青涩”，对未来依然抱有一点不确定。
+
+**Because as the poet who we named our kind of ugly Frost Library after once said, “Two roads diverged. I chose the one less traveled by, and that has made all the difference.”**  
+正如那位我们用他名字命名了（有点丑的）Frost 图书馆的诗人说的：“两条路在林间分叉，我选择了人迹更少的那一条，而这，改变了我的整个人生。”
+
+**So before I end, I want to thank President Elliot, the board of trustees, professors, and all members of the college. … Thank you families for coming all this way. While other commencements get Nobel Prize winners and Kermit the Frog, you got me finally.**  
+最后，我想感谢 Elliot 校长、董事会、所有教授和学院成员……感谢家人不远千里来参加。别的学校毕业典礼请来诺贝尔奖得主和青蛙柯密特，而你们今年请到了我——终于轮到我了！
+
+**Seniors, it was a pleasure to be young with you.**  
+2025 届的同学们，跟你们一起年轻，是一种荣幸。
+
+**As we depart, let’s keep these three green box lessons in mind. Build bridges, embrace the rotten, and bring our freshman greenness to heat.**  
+（结尾口误把 “the heat” 说成了两个 “Heat. Heat.” 全场大笑）
+
+**Build bridges, embrace the rotten, and stay green.**  
+——搭建桥梁，拥抱腐烂，保持青涩。
+
+**Thank you and congratulations!**  
+谢谢大家，恭喜毕业！
