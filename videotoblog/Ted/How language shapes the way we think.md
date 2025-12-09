@@ -1,6 +1,3 @@
-Video URL： https://www.youtube.com/watch?v=RKK7wGAYP6k
-
-
 # 如何用语言塑造我们的思维方式  
 **TED 演讲：Lera Boroditsky - How language shapes the way we think**  
 
