@@ -274,7 +274,7 @@
 -  ChatGPT
 -  豆包
 -  DeepSeek（暂不支持时事查询）
--  Get笔记
+-  Get笔记\Notebooklm ,建议直接用Notebooklm，get 笔记我们国家对照做的仿品
 
 ### （四）社交软件
 - 微信
