@@ -1,0 +1,31 @@
+# Patriotism tests loom for big business
+
+Economic nationalism makes it harder for multinationals to navigate the world
+
+FOR CHINESE fans of table tennis, even global tournaments have a cosy feel. China so dominates the sport that many international matches amount to a contest between “our Chinese” and “their Chinese”. Fans in China proudly watch their country’s champions compete with members of the “ping-pong foreign legion”, their fond nickname for Chinese-born aces who, realising they will never make their national squad, emigrate to play under other flags. At the Paris Olympics in 2024 more than a dozen table-tennis players representing European, Latin American and other countries were Chinese-born and -trained.
+
+If Chinese state planners have their way, economic globalisation is about to take a similar turn. It is their hope that some of the fastest-growing industries will soon be dominated by Chinese companies, or by foreign firms that depend on Chinese supply chains. Either way, the real winner will be China. In Beijing and other capitals, business bosses and officials expect to hear the phrase “China goes global” a lot in 2026. More Chinese companies will open or expand overseas operations, trying to ease trade tensions by creating jobs abroad. Some operations will distribute fully made-in-China products, such as affordable, gadget-packed electric vehicles or high-performance batteries. Others will send semi-finished kits to assembly plants far from home, transferring just enough value to be seen as local manufacturers.
+
+Chinese firms are already hearing loud demands from European and other governments to transfer more advanced technologies to foreign partners, and to source more components from local supply chains. The European Union is debating “buy European” local-content rules for public procurement contracts, in a bid to give such demands some bite. Still, many Chinese businesses will try to keep their most valuable operations at home. Cheaper labour and government subsidies are not the only reason. China offers efficient industrial clusters, low-cost and abundant energy, modern infrastructure and economies of scale. For a country run by communists, it is a deeply conservative place, where strikes are illegal and workers do as they are told. Why, Chinese officials privately ask, would anyone open a business in France, with its high costs and stroppy trade unions?
+
+Many Chinese investments should be welcome. But governments should not be naive about promises by Chinese firms to build fully localised sites for advanced manufacturing, says a Western trade official. When weighing support for inward investments, assessments of the national interest should assume that Chinese firms will mostly ship in components for final assembly.
+
+In other cases, “China goes global” will involve Chinese subsidiaries of foreign firms competing head-to-head with their own parent companies. With profits scarce inside China, many firms must seek fatter margins abroad. Once-swaggering German car companies now export electric cars from China to Europe that are Chinese in all but name. These models are not just 40% cheaper to build in Chinese plants, but draw deeply on Chinese innovation. Some Japanese electronics firms use so much made-in-China technology that they are arguably Chinese.
+
+Jens Eskelund, the president of the European Union Chamber of Commerce in China and a longtime business executive in Beijing, has watched the rationale for investing in China change over the years. In the 1990s and 2000s Western companies sought to profit from China’s low costs and by selling into its large (though tricky) home market. Today he sees more European companies investing in China “for survival”. Among his chamber’s member companies, twice as many are moving production into China as are reducing activities there. In part they are trying to navigate geopolitical tensions by manufacturing “in China, for China”.
+
+But more importantly, companies also feel that they must be “in China, for the world”. Almost every Western firm active in global trade now faces at least one peer, or near-peer, competitor from China. Those Chinese rivals are given an edge by their access to hyper-competitive Chinese suppliers and industrial clusters. To survive, many Western firms believe they must tap into the same Chinese expertise. “If you are going to compete in globalised sectors, you have to get the best components at the best price. That means leveraging Chinese supply chains,” says Mr Eskelund.
+
+If the economic case for made-in-China globalisation is strong, at least in some industries, the politics are perilous. In the near future more China-based subsidiaries will face complaints that they are cannibalising the worldwide sales of their parent companies, raising fears of job losses back home. China-based joint ventures will increasingly develop world-class intellectual property or generate valuable data that cannot be shared with their multinational owners (and vice versa) due to Chinese and Western security laws. Made-in-China success may be good for multinationals’ shareholders. Home governments will need to be convinced that what is good for their largest companies is also good for their country.
+
+In their own ways, America, China and Europe are all becoming more protectionist. Their aim is not to end foreign trade, but to capture more of its benefits. President Donald Trump has bullied allies into promising huge investments in his country. In South Korea, one of his targets, insiders worry about a political backlash. New American plants may profit Korean carmakers, they say. But all South Koreans need to see visible gains for their country.
+
+This is a tricky moment for big businesses to navigate. The nationality of a global firm is becoming more important but more ambiguous. Political trust is in short supply. Public opinion can tolerate a single country dominating ping-pong, it turns out. Consent for globalisation requires wins to be shared more evenly. ■
+
+Subscribers to The Economist can sign up to our Opinion newsletter, which brings together the best of our leaders, columns, guest essays and reader correspondence.
+
+This article was downloaded by zlibrary from https://www.economist.com//international/2025/12/30/patriotism-tests-loom-for-big-business
+
+
+
+
