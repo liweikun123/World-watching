@@ -1652,32 +1652,14 @@ AI 是一个全栈。我们正在从芯片、基础设施、模型到应用程�
 
 ## 一、 高级固定句式 (Sentence Patterns)
 
-| 序号 | 高级句式 | 原文例句 (Original Sentence) |
-| --- | --- | --- |
-| **1** | **It is the only... that I know that...**<br>
 
-<br>(强调独特性) | "**It is the only system that I know that has every single line of code**, the chip, the system, every line of code safety certified." |
-| **2** | **Whether it's A or B, we're going to...**<br>
-
-<br>(论证普适性) | "**So whether it's an EDA or SDA**... we're going to have basically the same technology... now completely revolutionize these design stacks." |
-| **3** | **It stands to reason that...**<br>
-
-<br>(逻辑推论) | "**It stands to reason that** when AI starts to get deployed in the world's enterprises, it's going to also reinvent the way storage is done." |
-| **4** | **...is an inflection point for...**<br>
-
-<br>(描述转折点) | "And not to mention, as I mentioned, **o1's introduction was an inflection point for AI**." |
-| **5** | **Long before you have to...**<br>
-
-<br>(强调领先性) | "You're going to be tested and evaluated in a computer **long before long before you have to spend any time dealing with gravity**." |
-| **6** | **It is impossible to... unless we...**<br>
-
-<br>(强调必要手段) | "**It is impossible to keep up with** those kind of rates... **unless we deployed aggressive extreme code design**." |
-| **7** | **What started with A, we now have the opportunity to B.**<br>
-
-<br>(描述使命闭环) | "**And so what started with them, we now have the opportunity to** go back and help them revolutionize theirs." |
-| **8** | **It’s not just about A, it’s about B.**<br>
-
-<br>(升华核心主旨) | "**But it's not just about the robots** in the end... **It's about getting there**." |
+| 序号 | 高级句式 (Advanced Patterns) | 原文例句 (Original Sentence) |
+| :--- | :--- | :--- |
+| 1 | **It is the only... that I know that...**<br>(强调独特性/排他性) | "It is the only system that I know that has every single line of code, the chip, the system, every line of code safety certified." |
+| 2 | **Whether it's A or B, we're going to...**<br>(论证普适性/全覆盖) | "So whether it's an EDA or SDA... we're going to have basically the same technology... now completely revolutionize these design stacks." |
+| 3 | **It stands to reason that...**<br>(逻辑推论/理所当然) | "It stands to reason that when AI starts to get deployed in the world's enterprises, it's going to also reinvent the way storage is done." |
+| 4 | **...is an inflection point for...**<br>(描述重大转折点/机遇) | "And not to mention, as I mentioned, o1's introduction was an inflection point for AI." |
+| 5 | **Long before you have to...**<br>(强调领先性/提前规划) | "You're going to be tested and evaluated in a computer long before long before you have to spend any time dealing with gravity." |
 
 ---
 
