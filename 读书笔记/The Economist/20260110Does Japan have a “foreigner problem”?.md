@@ -14,6 +14,12 @@ Many foreigners live in Japan on temporary work visas. Such programmes are bette
 
 Some popular worries reflect real problems that can be fixed. Stricter oversight of foreign investors who buy land next to sensitive sites such as military bases is wise. Imposing Japanese-language requirements for permanent residence is reasonable, too. Over-tourism has turned Kyoto’s best-known temples into mosh pits during cherry-blossom season.
 
+But broader fears about social breakdown and loss of traditions are overstated. Japan is an island country with strong borders. It faces no surge of refugees from war or poverty. Its neighbours are either prosperous or North Korea, which locks its people in. Foreigners are only about 3% of Japan’s population; the average across the OECD, a club of mostly rich countries, is 15%. And there is plenty of room for tourism to grow.
+
+Japan already relies on foreigners in industries including hospitality, farming and nursing. Migrants help sustain many of the traditions that nativists fear losing: they catch and harvest the raw ingredients for Japanese cuisine; in some ageing rural communities they help carry portable shrines during festivals. Japan will need far more workers in the coming decades to maintain even modest growth. That is why business leaders and governors tend to favour admitting more foreigners, not fewer. As for curbing tourism, that would mean stifling Japan’s second-largest export, after cars.
+
+Instead of discouraging tourists, Japan could lure more of them to the many beautiful places that are currently off the beaten track. (Even Kyoto has plenty of spectacular yet barely visited sites.) Instead of cracking down on foreign workers, it should design an immigration system that attracts and selects newcomers with useful skills, integrates them into society and ensures that they pay their fair share of health-care and welfare costs. The real problem is not foreigners. It is the failure to take advantage of one of Japan’s greatest strengths—that it is a wonderful place to live and work. 
+
 # Does Japan have a “foreigner problem”?
 
 ## Original English Text + Chinese Translation
